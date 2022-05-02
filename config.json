@@ -1,5 +1,5 @@
 {
-    "TOKEN": "enter token here" ,
+    "TOKEN": "OTcwNjg4MTI2NTcxOTMzNzg2.Ym_lww.vRcURS56M0NuU66j_lq9fxJI2gc" ,
     "PREFIX": "$",
-    "COOLDOWN": "generator cooldown write any number for example 2 is 2 minutes" 
+    "COOLDOWN": "0.5" 
 }
